@@ -1,0 +1,8 @@
+[core]
+    remote = myremote
+['remote "me"']
+    url = /tmp/dvc-storage2
+['remote "mylasttest"']
+    url = /tmp/dvc-storagelast
+['remote "myremote"']
+    url = /tmp/dvc-storage
